@@ -1,0 +1,180 @@
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\practice.exe
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\practice.deps.json
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\practice.runtimeconfig.json
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.g.resources
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\refint\practice.dll
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\ref\practice.dll
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\박연택\Desktop\practice\practice\obj\Debug\net6.0-windows\practice.csproj.CopyComplete
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg470_64.dll
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg470.dll
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\OpenCvSharp.WpfExtensions.dll
+C:\Users\박연택\Desktop\practice\practice\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\refint\practice.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\practice.exe
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\practice.deps.json
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\practice.runtimeconfig.json
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\OpenCvSharp.WpfExtensions.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg470_64.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg470.dll
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.g.resources
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.csproj.CopyComplete
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\리모컨 버튼 크기\practice\obj\Debug\net6.0-windows\ref\practice.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\practice.exe
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\practice.deps.json
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\practice.runtimeconfig.json
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\OpenCvSharp.WpfExtensions.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg470_64.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg470.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.g.resources
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.csproj.CopyComplete
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\refint\practice.dll
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\Mat에 대해 알아보기\practice\obj\Debug\net6.0-windows\ref\practice.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\practice.exe
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\practice.deps.json
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\practice.runtimeconfig.json
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\OpenCvSharp.WpfExtensions.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg470_64.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg470.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.g.resources
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.csproj.CopyComplete
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\refint\practice.dll
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\실습_opencv\practice\obj\Debug\net6.0-windows\ref\practice.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\practice.exe
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\practice.deps.json
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\practice.runtimeconfig.json
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\OpenCvSharp.WpfExtensions.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg470_64.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg470.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.g.resources
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.csproj.CopyComplete
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\refint\practice.dll
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\7월17일 크로마키 실습\practice\obj\Debug\net6.0-windows\ref\practice.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\practice.exe
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\practice.deps.json
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\practice.runtimeconfig.json
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\Emgu.CV.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\OpenCvSharp.Extensions.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\OpenCvSharp.WpfExtensions.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg470_64.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg470.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.cache
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice_MarkupCompile.lref
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.g.resources
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.AssemblyInfo.cs
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.csproj.CopyComplete
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\refint\practice.dll
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.pdb
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\practice.genruntimeconfig.cache
+C:\Users\박연택\Desktop\7월18일 모션인식 코드 재활용\practice\obj\Debug\net6.0-windows\ref\practice.dll
