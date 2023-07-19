@@ -1,0 +1,54 @@
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting_MarkupCompile.cache
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting_MarkupCompile.lref
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.exe
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.deps.json
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.runtimeconfig.json
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.dll
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.pdb
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg480_64.dll
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg480.dll
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.g.resources
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.AssemblyInfo.cs
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.csproj.CopyComplete
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.dll
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\refint\MotionDetecting.dll
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.pdb
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.genruntimeconfig.cache
+C:\Users\박연택\Desktop\7월 18일 모션인식\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\ref\MotionDetecting.dll
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.exe
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.deps.json
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.runtimeconfig.json
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.dll
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\MotionDetecting.pdb
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\OpenCvSharp.dll
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\runtimes\win-x64\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\runtimes\win-x64\native\opencv_videoio_ffmpeg480_64.dll
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\runtimes\win-x86\native\OpenCvSharpExtern.dll
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\bin\Debug\net6.0-windows\runtimes\win-x86\native\opencv_videoio_ffmpeg480.dll
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.csproj.AssemblyReference.cache
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting_MarkupCompile.cache
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting_MarkupCompile.lref
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.g.resources
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.AssemblyInfoInputs.cache
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.AssemblyInfo.cs
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.csproj.CoreCompileInputs.cache
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.csproj.CopyComplete
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.dll
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\refint\MotionDetecting.dll
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.pdb
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\MotionDetecting.genruntimeconfig.cache
+C:\Users\박연택\Desktop\PYT_Github\MotionDetecting\MotionDetecting\obj\Debug\net6.0-windows\ref\MotionDetecting.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "mxuYRXOXXa/PvlB9f5EOLsHu43QnW6oJmuvl3z1w3tUcCo291mE2dE4Nms4dxZdC915VVOpdfdqo7XFanNHQOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\박연택\\Desktop\\PYT_Github\\MotionDetecting\\MotionDetecting\\MotionDetecting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\박연택\\.nuget\\packages\\opencvsharp4\\4.8.0.20230708\\opencvsharp4.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\박연택\\.nuget\\packages\\opencvsharp4.runtime.win\\4.8.0.20230708\\opencvsharp4.runtime.win.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\박연택\\.nuget\\packages\\opencvsharp4.windows\\4.8.0.20230708\\opencvsharp4.windows.4.8.0.20230708.nupkg.sha512",
+    "C:\\Users\\박연택\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\박연택\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
